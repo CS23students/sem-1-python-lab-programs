@@ -1,0 +1,3 @@
+> Question: Write the program to define a module and import specific function in that program from another program.
+
+> Ans: We can write the same "15-fibonacci-series-module" for this.

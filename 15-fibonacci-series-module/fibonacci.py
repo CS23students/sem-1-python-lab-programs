@@ -1,8 +1,8 @@
 # fibonacci series function
 
 def fibonacci(n):
-    f1 = 1
-    f2 = 2
+    f1 = 0
+    f2 = 1
     print(f1)
     print(f2)
     i = 2
